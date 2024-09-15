@@ -1,4 +1,6 @@
-# Figma Plugin React Template
+#Figma Flexi Name
+
+Figma FlexiName was built to solve the common problem of managing inconsistent layer names in large design files. Designed with flexibility in mind, this plugin allows you to quickly rename layers by their current name or unique node ID, providing precise control over your Figma documents. Whether you're organizing complex design systems or streamlining handoffs with developers, Figma FlexiName makes it easy to keep your files clean, consistent, and ready for collaboration — saving you time and reducing errors.
 
 ![62862431-71537f00-bd0e-11e9-85db-d97c0fb729a4](https://user-images.githubusercontent.com/16322616/62862692-46b5f600-bd0f-11e9-93b0-75955d1de8f3.png)
 
